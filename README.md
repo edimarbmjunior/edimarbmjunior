@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Edimar, and I'm a Software Engineer and I've been working in tech since 2012. I'm from Brazil, and I'm currently living in Rio de Janeiro.
+
 <!--
 **edimarbmjunior/edimarbmjunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
