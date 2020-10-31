@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Sou Edimar, engenheiro de software e trabalho com tecnologia desde 2012. Moro no Rio de Janeiro. Sou formado em Sistemas de informação, com MBA Engenharia de Software.
+Sou Edimar, engenheiro de software e trabalho com tecnologia desde 2012. Moro no Rio de Janeiro. Sou formado em Sistemas de informação, com MBA em Engenharia de Software.
 
 <p align='center'>
 <a href="https://twitter.com/edimarbmjr"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
