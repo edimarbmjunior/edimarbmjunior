@@ -11,6 +11,19 @@ Sou Edimar, engenheiro de software e trabalho com tecnologia desde 2012. Moro no
  
  Sou formado em Sistemas de informação, com MBA Engenharia de Software.
  
+  ---
+ 
+ ### 💼 Meu histórico trabalhos
+ 
+ - [Stefanini Brasil](https://www.linkedin.com/company/stefanini-brasil/)
+ - [MJV Technology & Innovation](https://www.linkedin.com/company/mjv-tech-and-innovation/) 
+ - [Extreme Digital Solutions - EDS](https://www.linkedin.com/company/extremedigitalsolutions/mycompany/) 💼 
+ 
+ ### 💻 O que estou aprendendo atualmente
+ 
+ -[Flutter](https://flutter.dev/)
+ -[Spring Boot](https://spring.io/projects/spring-boot)
+ 
  ## ⚡ Technologies
  
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
@@ -31,6 +44,8 @@ Sou Edimar, engenheiro de software e trabalho com tecnologia desde 2012. Moro no
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+![Edimar Github Stats](https://github-readme-stats.vercel.app/api?username=edimarbmjunior&show_icons=true&theme=radical)
 
 <!--
 **edimarbmjunior/edimarbmjunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
