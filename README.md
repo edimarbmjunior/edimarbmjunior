@@ -22,7 +22,6 @@ Sou Edimar, engenheiro de software e trabalho com tecnologia desde 2012. Moro no
  ### 💻 O que estou aprendendo atualmente
  
  - [Flutter](https://flutter.dev/)
- 
  - [Spring Boot](https://spring.io/projects/spring-boot)
  
  ## ⚡ Technologies
