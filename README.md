@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm Edimar, and I'm a Software Engineer and I've been working in tech since 2012. I'm from Brazil, and I'm currently living in Rio de Janeiro.
+Sou Edimar, sou Engenheiro de Software e trabalho com tecnologia desde 2012. Sou do Brasil e atualmente moro no Rio de Janeiro.
 
 <p align='center'>
 <a href="https://twitter.com/edimarbmjr"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
