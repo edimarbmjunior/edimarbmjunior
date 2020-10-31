@@ -5,6 +5,7 @@ Sou Edimar, engenheiro de software e trabalho com tecnologia desde 2012. Moro no
 <p align='center'>
 <a href="https://twitter.com/edimarbmjr"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/ebmjr/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+ <a href="https://www.facebook.com/edimar.jun"><img height="30" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F660832945310761781%2F&psig=AOvVaw0Wjp77FXWDzNG2xGwMrBms&ust=1604264558384000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNCV76rd3-wCFQAAAAAdAAAAABAD"></a>&nbsp;&nbsp;
 </p>
  
   ---
