@@ -7,9 +7,7 @@ I'm Edimar, and I'm a Software Engineer and I've been working in tech since 2012
 <a href="https://www.linkedin.com/in/ebmjr/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
-<p align="center">
 [![Twitter Follow](https://img.shields.io/twitter/follow/loiane?style=social)](https://twitter.com/edimarbmjr)
-</p>
 
  ---
  
