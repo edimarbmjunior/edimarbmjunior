@@ -9,7 +9,7 @@ Sou Edimar, engenheiro de software e trabalho com tecnologia desde 2012. Moro no
  
   ---
  
- ### 💼 Meu histórico trabalhos
+ ### 💼 Meu histórico de trabalhos
  
  - [Stefanini Brasil](https://www.linkedin.com/company/stefanini-brasil/)
  - [MJV Technology & Innovation](https://www.linkedin.com/company/mjv-tech-and-innovation/) 
@@ -20,7 +20,7 @@ Sou Edimar, engenheiro de software e trabalho com tecnologia desde 2012. Moro no
  - [Flutter](https://flutter.dev/)
  - [Spring Boot](https://spring.io/projects/spring-boot)
  
- ## ⚡ Technologies
+ ## ⚡ Tecnologias
  
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
