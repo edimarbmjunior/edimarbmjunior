@@ -13,11 +13,12 @@ Sou Edimar, engenheiro de software e trabalho com tecnologia desde 2012. Moro no
  
  - [Stefanini Brasil](https://www.linkedin.com/company/stefanini-brasil/)
  - [MJV Technology & Innovation](https://www.linkedin.com/company/mjv-tech-and-innovation/) 
- - [Extreme Digital Solutions - EDS](https://www.linkedin.com/company/extremedigitalsolutions/mycompany/) 💼 
+ - [Extreme Digital Solutions - EDS](https://www.linkedin.com/company/extremedigitalsolutions/mycompany/)
+ - [CAPGEMINI Brasil](https://www.capgemini.com/br-pt/) 💼 
  
  ### 💻 O que estou aprendendo atualmente
  
- - [Flutter](https://flutter.dev/)
+ - [React](https://legacy.reactjs.org/docs/getting-started.html)
  - [Spring Boot](https://spring.io/projects/spring-boot)
  
  ## ⚡ Tecnologias
