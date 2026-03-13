@@ -18,8 +18,8 @@ Sou Edimar, engenheiro de software e trabalho com tecnologia desde 2012. Moro no
  
  ### 💻 O que estou aprendendo atualmente
  
- - [React](https://legacy.reactjs.org/docs/getting-started.html)
- - [Spring Boot](https://spring.io/projects/spring-boot)
+ - [Android](https://developer-android-com.translate.goog/develop/ui/compose/setup?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt&_x_tr_pto=tc)
+ - Melhorando o [Spring Boot](https://spring.io/projects/spring-boot)
  
  ## ⚡ Tecnologias
  
