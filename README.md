@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Sou Edimar, engenheiro de software e trabalho com tecnologia desde 2012. Moro no Rio de Janeiro. Sou formado em Sistemas de informação, com MBA em Engenharia de Software.
+Sou Edimar, engenheiro de software e trabalho com tecnologia desde 2012. Moro no Brasil. Sou formado em Sistemas de informação, com MBA em Engenharia de Software.
 
 <p align='center'>
 <a href="https://twitter.com/edimarbmjr"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
@@ -41,8 +41,8 @@ Sou Edimar, engenheiro de software e trabalho com tecnologia desde 2012. Moro no
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
-![Edimar Github Stats](https://github-readme-stats.vercel.app/api?username=edimarbmjunior&show_icons=true&theme=radical)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white)
+![Android Jetpack Compose](https://img.shields.io/badge/Toolkit-Jetpack_Compose-4285f4?style=for-the-badge&logo=jetpack-compose&color=6366f1&labelColor=1e1e2e)
 
 <!--
 **edimarbmjunior/edimarbmjunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
