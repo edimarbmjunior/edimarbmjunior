@@ -41,8 +41,8 @@ Sou Edimar, engenheiro de software e trabalho com tecnologia desde 2012. Moro no
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white)
-![Android Jetpack Compose](https://img.shields.io/badge/Toolkit-Jetpack_Compose-4285f4?style=for-the-badge&logo=jetpack-compose&color=6366f1&labelColor=1e1e2e)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white)
+![Android Jetpack Compose](https://img.shields.io/badge/Toolkit-Jetpack_Compose-4285f4?style=flat-square&logo=jetpack-compose&color=6366f1&labelColor=1e1e2e)
 
 <!--
 **edimarbmjunior/edimarbmjunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
